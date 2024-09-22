@@ -1,3 +1,4 @@
+Tavoite:
 Käyttäjä voi tehdä tunnuksen ja kirjautua sovellukseen
 Sovellus hakee tietoa kaupunkien säätilanteesta julkiselta API:lta openweathermap.org, ja näyttää sen käyttäjälle.
 Käyttäjä näkee kaupungin sijainnin kartalla
